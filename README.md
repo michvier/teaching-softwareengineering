@@ -34,7 +34,7 @@ Bitte beachten Sie, dass einige Materialien möglicherweise unter anderen Lizenz
 | 01        | Tools für kollaboratives Arbeiten<br> (Git, GitHub, Git Workflow)	                      | [Beispiele](lecture1/workflow)                                                                                                                     |
 | 02        | Entwicklungsprozess <br> (Einführung, Planung, Risiko- und Fortschrittskontrolle)	   | [Beispiele](lecture2/process) 
 | 03        | Software Qualität <br>(Case Study Airbus 737MAX)             | [Beispiele](lecture3/quality)                               |
-| 04        | Entwurdsmuster                  | [Beispiele](lecture4/designpatterns)                                         |
+| 04        | Entwurfsmuster                  | [Beispiele](lecture4/designpatterns)                                         |
 | 05        | Maßnahmen zur Qualitätssicherung <br> (Inspektion, statische und dynamische Analyse)       | [Beispiele](lecture5/quality)                         |
 | 06        | Continous Integration and Docker	 | [Beispiele](lecture6/cicd)                                  |
 | 07        | Empirische Methoden in der Softwaretechnik                | [Beispiele](lecture7/empirical)                        |
